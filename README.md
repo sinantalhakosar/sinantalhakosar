@@ -1,11 +1,13 @@
+<div align="center">
+  
 ### Hi there 👋
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  
 
-- 👨‍💻 I’m currently working on web development technologies.
-
+  
 #### Thank you for visiting my profile
 
 ![Visitor Count](https://profile-counter.glitch.me/sinantalhakosar/count.svg)
+</div>
 <!--
 **sinantalhakosar/sinantalhakosar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
